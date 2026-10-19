@@ -1,0 +1,420 @@
+[
+ {
+  "id": "hades",
+  "title": "Hades",
+  "genre": "Roguelike",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 12.49,
+    "base": 24.99,
+    "url": "https://store.steampowered.com/app/1145360"
+   }
+  ]
+ },
+ {
+  "id": "elden-ring",
+  "title": "Elden Ring",
+  "genre": "Acción RPG",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 41.99,
+    "base": 59.99,
+    "url": "https://store.steampowered.com/app/1245620"
+   },
+   {
+    "store": "xbox",
+    "usd": 59.99,
+    "base": 59.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Elden%20Ring"
+   }
+  ]
+ },
+ {
+  "id": "cyberpunk-2077",
+  "title": "Cyberpunk 2077",
+  "genre": "RPG",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 29.99,
+    "base": 59.99,
+    "url": "https://store.steampowered.com/app/1091500"
+   },
+   {
+    "store": "epic",
+    "usd": 29.99,
+    "base": 59.99,
+    "url": "https://store.epicgames.com/es-ES/browse?q=Cyberpunk%202077"
+   },
+   {
+    "store": "xbox",
+    "usd": 29.99,
+    "base": 59.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Cyberpunk%202077"
+   }
+  ]
+ },
+ {
+  "id": "baldur-s-gate-3",
+  "title": "Baldur’s Gate 3",
+  "genre": "RPG",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 59.99,
+    "base": 59.99,
+    "url": "https://store.steampowered.com/app/1086940"
+   },
+   {
+    "store": "xbox",
+    "usd": 59.99,
+    "base": 59.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Baldur%E2%80%99s%20Gate%203"
+   }
+  ]
+ },
+ {
+  "id": "stardew-valley",
+  "title": "Stardew Valley",
+  "genre": "Simulación",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 14.99,
+    "base": 14.99,
+    "url": "https://store.steampowered.com/app/413150"
+   },
+   {
+    "store": "xbox",
+    "usd": 14.99,
+    "base": 14.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Stardew%20Valley"
+   }
+  ]
+ },
+ {
+  "id": "hollow-knight",
+  "title": "Hollow Knight",
+  "genre": "Metroidvania",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 7.49,
+    "base": 14.99,
+    "url": "https://store.steampowered.com/app/367520"
+   },
+   {
+    "store": "epic",
+    "usd": 7.99,
+    "base": 14.99,
+    "url": "https://store.epicgames.com/es-ES/browse?q=Hollow%20Knight"
+   },
+   {
+    "store": "xbox",
+    "usd": 14.99,
+    "base": 14.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Hollow%20Knight"
+   }
+  ]
+ },
+ {
+  "id": "celeste",
+  "title": "Celeste",
+  "genre": "Plataformas",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 4.99,
+    "base": 19.99,
+    "url": "https://store.steampowered.com/app/504230"
+   },
+   {
+    "store": "epic",
+    "usd": 4.99,
+    "base": 19.99,
+    "url": "https://store.epicgames.com/es-ES/browse?q=Celeste"
+   },
+   {
+    "store": "xbox",
+    "usd": 19.99,
+    "base": 19.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Celeste"
+   }
+  ]
+ },
+ {
+  "id": "portal-2",
+  "title": "Portal 2",
+  "genre": "Puzzle",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 1.99,
+    "base": 9.99,
+    "url": "https://store.steampowered.com/app/620"
+   }
+  ]
+ },
+ {
+  "id": "terraria",
+  "title": "Terraria",
+  "genre": "Sandbox",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 4.99,
+    "base": 9.99,
+    "url": "https://store.steampowered.com/app/105600"
+   },
+   {
+    "store": "xbox",
+    "usd": 9.99,
+    "base": 9.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Terraria"
+   }
+  ]
+ },
+ {
+  "id": "the-witcher-3",
+  "title": "The Witcher 3",
+  "genre": "RPG",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 7.99,
+    "base": 39.99,
+    "url": "https://store.steampowered.com/app/292030"
+   },
+   {
+    "store": "epic",
+    "usd": 7.99,
+    "base": 39.99,
+    "url": "https://store.epicgames.com/es-ES/browse?q=The%20Witcher%203"
+   },
+   {
+    "store": "xbox",
+    "usd": 39.99,
+    "base": 39.99,
+    "url": "https://www.xbox.com/es-AR/search?q=The%20Witcher%203"
+   }
+  ]
+ },
+ {
+  "id": "red-dead-redemption-2",
+  "title": "Red Dead Redemption 2",
+  "genre": "Acción",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 19.79,
+    "base": 59.99,
+    "url": "https://store.steampowered.com/app/1174180"
+   },
+   {
+    "store": "epic",
+    "usd": 19.79,
+    "base": 59.99,
+    "url": "https://store.epicgames.com/es-ES/browse?q=Red%20Dead%20Redemption%202"
+   }
+  ]
+ },
+ {
+  "id": "balatro",
+  "title": "Balatro",
+  "genre": "Roguelike",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 14.99,
+    "base": 14.99,
+    "url": "https://store.steampowered.com/app/2379780"
+   },
+   {
+    "store": "xbox",
+    "usd": 14.99,
+    "base": 14.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Balatro"
+   }
+  ]
+ },
+ {
+  "id": "dead-cells",
+  "title": "Dead Cells",
+  "genre": "Metroidvania",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 8.99,
+    "base": 24.99,
+    "url": "https://store.steampowered.com/app/588650"
+   },
+   {
+    "store": "epic",
+    "usd": 8.99,
+    "base": 24.99,
+    "url": "https://store.epicgames.com/es-ES/browse?q=Dead%20Cells"
+   },
+   {
+    "store": "xbox",
+    "usd": 24.99,
+    "base": 24.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Dead%20Cells"
+   }
+  ]
+ },
+ {
+  "id": "vampire-survivors",
+  "title": "Vampire Survivors",
+  "genre": "Roguelike",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 4.99,
+    "base": 4.99,
+    "url": "https://store.steampowered.com/app/1794680"
+   },
+   {
+    "store": "xbox",
+    "usd": 4.99,
+    "base": 4.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Vampire%20Survivors"
+   }
+  ]
+ },
+ {
+  "id": "disco-elysium",
+  "title": "Disco Elysium",
+  "genre": "RPG",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 9.99,
+    "base": 39.99,
+    "url": "https://store.steampowered.com/app/632470"
+   },
+   {
+    "store": "epic",
+    "usd": 9.99,
+    "base": 39.99,
+    "url": "https://store.epicgames.com/es-ES/browse?q=Disco%20Elysium"
+   }
+  ]
+ },
+ {
+  "id": "sekiro",
+  "title": "Sekiro",
+  "genre": "Acción",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 39.99,
+    "base": 59.99,
+    "url": "https://store.steampowered.com/app/814380"
+   },
+   {
+    "store": "xbox",
+    "usd": 59.99,
+    "base": 59.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Sekiro"
+   }
+  ]
+ },
+ {
+  "id": "helldivers-2",
+  "title": "Helldivers 2",
+  "genre": "Shooter",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 39.99,
+    "base": 39.99,
+    "url": "https://store.steampowered.com/app/553850"
+   }
+  ]
+ },
+ {
+  "id": "cult-of-the-lamb",
+  "title": "Cult of the Lamb",
+  "genre": "Roguelike",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1313140/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 12.49,
+    "base": 24.99,
+    "url": "https://store.steampowered.com/app/1313140"
+   },
+   {
+    "store": "epic",
+    "usd": 12.49,
+    "base": 24.99,
+    "url": "https://store.epicgames.com/es-ES/browse?q=Cult%20of%20the%20Lamb"
+   },
+   {
+    "store": "xbox",
+    "usd": 24.99,
+    "base": 24.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Cult%20of%20the%20Lamb"
+   }
+  ]
+ },
+ {
+  "id": "slay-the-spire",
+  "title": "Slay the Spire",
+  "genre": "Cartas",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/646570/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 6.99,
+    "base": 24.99,
+    "url": "https://store.steampowered.com/app/646570"
+   },
+   {
+    "store": "epic",
+    "usd": 6.99,
+    "base": 24.99,
+    "url": "https://store.epicgames.com/es-ES/browse?q=Slay%20the%20Spire"
+   },
+   {
+    "store": "xbox",
+    "usd": 24.99,
+    "base": 24.99,
+    "url": "https://www.xbox.com/es-AR/search?q=Slay%20the%20Spire"
+   }
+  ]
+ },
+ {
+  "id": "hades-ii",
+  "title": "Hades II",
+  "genre": "Roguelike",
+  "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145350/header.jpg",
+  "offers": [
+   {
+    "store": "steam",
+    "usd": 29.99,
+    "base": 29.99,
+    "url": "https://store.steampowered.com/app/1145350"
+   }
+  ]
+ }
+]

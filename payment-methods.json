@@ -1,0 +1,9 @@
+{
+  "_aviso": "Valores INICIALES a verificar. rate: oficial | tarjeta | bolsa (MEP) | cripto. taxes y fee son fracciones (0.30 = 30%).",
+  "methods": [
+    { "id": "lemon", "name": "Lemon Cash", "rate": "cripto", "taxes": 0, "fee": 0.01, "verify": true },
+    { "id": "mercadopago", "name": "Mercado Pago", "rate": "tarjeta", "taxes": 0, "fee": 0, "verify": true },
+    { "id": "astropay", "name": "AstroPay", "rate": "cripto", "taxes": 0, "fee": 0.03, "verify": true },
+    { "id": "uala", "name": "Ualá", "rate": "tarjeta", "taxes": 0, "fee": 0, "verify": true }
+  ]
+}
